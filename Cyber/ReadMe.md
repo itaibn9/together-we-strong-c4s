@@ -13,3 +13,5 @@ short description of the directory's subject
 CyberGame installer (Only for Windows)
 
 * [defenitions](./defenitions/README.md) 
+
+* [digital whisper - hebrew website about the cyber world](https://www.digitalwhisper.co.il/)
